@@ -1,0 +1,5 @@
+VeryFuns领地：/res tp Aasker_2
+牛肉场：/res tp JCX
+赛车场：/res tp Nurburgring
+刷怪塔挂机：/res tp hangup
+刷怪塔：/res tp shuaguaita
